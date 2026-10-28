@@ -15,11 +15,11 @@
 
 ## 使用
 
-把 `SKILL.md` 放进你的 AI 工具的 skills 目录（如 Claude Code 的 `.claude/skills/giant-scale-shot/`），或者直接把内容贴给 AI，然后告诉它：
+把 `SKILL.md` 放进你的 AI 工具的 skills 目录，或者直接把内容贴给 AI，然后告诉它：
 
 > 用巨物感镜头 skill，把参考图里的角色巨大化，写一个 10 秒的视频提示词。
 
-生成的提示词可以直接丢进即梦、可灵等 AI 视频模型。
+生成的提示词可以直接用在 AI 视频生成模型里。
 
 ## License
 
